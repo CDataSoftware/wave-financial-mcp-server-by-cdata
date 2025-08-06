@@ -1,7 +1,7 @@
 # wave-financial-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Wave Financial
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Wave Financial (beta)](https://www.cdata.com/download/download.aspx?sku=HWZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Wave Financial (beta)](https://www.cdata.com/download/download.aspx?sku=HWZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Wave Financial supported by the [CData JDBC Driver for Wave Financial](https://www.cdata.com/drivers/wavefinancial/jdbc).
 
